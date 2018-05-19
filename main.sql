@@ -3,3 +3,4 @@ select * from db_option where option_id = 2
 
 use master;
 
+-- now we need to explore
