@@ -9,3 +9,4 @@ The code below is for information only
 
 select * from master.information
 select * from oscar.info 
+select 1;
