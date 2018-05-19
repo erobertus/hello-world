@@ -8,4 +8,4 @@ The code below is for information only
 **************************************/
 
 select * from master.information
-select * from oscar.info 
+select * from oscar.info where oscar_id in (select oscar_id from oscar_public where published)
